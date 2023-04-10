@@ -1,5 +1,5 @@
-require("theprimeagen.set")
-require("theprimeagen.remap")
+require("arsh.set")
+require("arsh.remap")
 
 -- DO NOT INCLUDE THIS
 vim.opt.rtp:append("~/personal/streamer-tools")
